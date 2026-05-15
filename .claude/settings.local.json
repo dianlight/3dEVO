@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(New-Item -ItemType Directory -Path \"C:\\\\Users\\\\uga06422\\\\ProgettiLocale\\\\3dEVO\\\\parts\" -Force)",
+      "PowerShell(New-Item -ItemType Directory -Path \"C:\\\\Users\\\\uga06422\\\\ProgettiLocale\\\\3dEVO\\\\assemblies\" -Force)",
+      "PowerShell(New-Item -ItemType Directory -Path \"C:\\\\Users\\\\uga06422\\\\ProgettiLocale\\\\3dEVO\\\\firmware\" -Force)",
+      "PowerShell(New-Item -ItemType Directory -Path \"C:\\\\Users\\\\uga06422\\\\ProgettiLocale\\\\3dEVO\\\\tools\" -Force)",
+      "WebFetch(domain:reprap.org)",
+      "WebFetch(domain:www.ebay.it)",
+      "WebSearch",
+      "WebFetch(domain:it.aliexpress.com)",
+      "WebFetch(domain:www.aliexpress.com)",
+      "WebFetch(domain:www.xcr3d.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.thingiverse.com)",
+      "mcp__mcp-server-github__search_code",
+      "WebFetch(domain:www.amazon.com)",
+      "WebFetch(domain:www.reddit.com)",
+      "Bash(git add *)"
+    ]
+  }
+}

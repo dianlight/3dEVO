@@ -1,0 +1,23 @@
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Generated files
+*.gcode
+*.nc
+*.tap
+
+# Temporary files
+*.tmp
+*~
+*.bak
+
+# Large binary files (track with description, not in repo)
+# *.stl
+# *.step
+# *.3mf
